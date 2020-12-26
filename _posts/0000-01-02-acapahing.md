@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-your text
+asu kabeh kecuali aku ro keluargaku
 use the left arrow to go back!
